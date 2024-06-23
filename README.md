@@ -9,5 +9,6 @@
   * Waveshare ETH/USB HUB HAT.
   * TP-Link Archer T2U Nano.
   * GPS/GLONASS U-blox7 (I'm thinking of a replacement).
-  * 
+* Resources:
+  * My own attacking resource: https://github.com/sakkarose/vie_wpa2_pw  
      
