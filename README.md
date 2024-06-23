@@ -9,7 +9,11 @@
   * Waveshare ETH/USB HUB HAT.
   * TP-Link Archer T2U Nano.
   * GPS/GLONASS U-blox7 (I'm thinking of a replacement).
+  * 
+* My plugins:
+  * 
 * Resources:
   * My own hashcat operations: [sakkarose/vie_wpa2_pw](https://github.com/sakkarose/vie_wpa2_pw).
   * My image: [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi).
   * Getting started: https://pwnagotchi.org/.
+  * 
